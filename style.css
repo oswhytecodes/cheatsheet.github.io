@@ -2,11 +2,12 @@
     font-family: Righteous;
     src: url('Righteous-Regular.ttf');
 }
-body {
+body {margin-top: 40px;
     background-color: LightBlue;
     }
 h1 { 
     margin: 0 auto;
+   
     width: 330px;
     text-align: center;
     font-family: Righteous;
