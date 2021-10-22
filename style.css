@@ -1,12 +1,12 @@
 @font-face {
     font-family: Righteous;
-    src: url('font/Righteous-Regular.ttf');
+    src: url('Righteous-Regular.ttf');
 }
 body {
     background-color: LightBlue;
-    
     }
-h1 { margin: 0 auto;
+h1 { 
+    margin: 0 auto;
     width: 330px;
     text-align: center;
     font-family: Righteous;
